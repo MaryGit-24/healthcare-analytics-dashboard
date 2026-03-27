@@ -10,10 +10,10 @@ The goal of this project is to uncover operational inefficiencies, financial dri
 
 ---
 
-- data → raw dataset
-- sql → SQL analysis queries
-- powerbi → dashboard file (.pbix)
 - assets → dashboard screenshots
+- data → raw dataset
+- powerbi → dashboard file (.pbix)
+- sql → SQL analysis queries
 
 ## 🗂️Presentation
 
