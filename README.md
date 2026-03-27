@@ -6,6 +6,19 @@ This project presents a comprehensive healthcare analytics dashboard built using
 
 The goal of this project is to uncover operational inefficiencies, financial drivers, and healthcare demand patterns to support data-driven decision-making.
 
+## 📁 Project Structure
+
+---
+
+- data → raw dataset
+- sql → SQL analysis queries
+- powerbi → dashboard file (.pbix)
+- assets → dashboard screenshots
+
+## 🗂️Presentation
+
+Stakeholder Presentation Link (https://docs.google.com/presentation/d/1uWeGAMfzDy7rEdX3al-sgoM5JuqEf-Ur-vTUmnik2_s/edit?usp=sharing)
+
 ---
 
 ## 🗂️ Dataset Description
